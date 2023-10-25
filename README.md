@@ -16,7 +16,7 @@
   
   ## Usage
   This application can be used to make a professional and organized README file for any project in a timely manner.
-  Watch a video demo [here](https://drive.google.com/file/d/1bUd6_hGjqmmSgdXMpvuU59fTY7bU9m3b/view)
+  Watch a video demo [here](https://drive.google.com/file/d/1bUd6_hGjqmmSgdXMpvuU59fTY7bU9m3b/view).
   
   ## Contributing
   
