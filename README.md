@@ -16,6 +16,7 @@
   
   ## Usage
   This application can be used to make a professional and organized README file for any project in a timely manner.
+  Watch a video demo [here](/Users/peytonengborg/bootcamp/challenges/README-generator/Untitled_ Oct 25, 2023 12_06 PM.webm)
   
   ## Contributing
   
